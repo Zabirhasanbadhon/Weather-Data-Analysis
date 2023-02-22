@@ -2,6 +2,6 @@
 Weather Data Analysis with python
 
 
-This Project shows that How how Analysis Weather Data By Using Python.
+This Project shows that How to Analysis Weather Data By Using Python.
 
 Require Tools : **Jupyter Notebook
