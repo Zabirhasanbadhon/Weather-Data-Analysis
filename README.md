@@ -83,3 +83,9 @@ In **Data Explorer**, enter a search term to filter records. Click **Export filt
 - Large datasets may take longer to display. The data explorer displays up to 1,500 matching rows in the table at a time.
 - Matplotlib is required for charts. If it is missing, install it with `python -m pip install matplotlib`.
 
+## 👨‍💻 Author
+
+**ZaBir HaSan**
+
+Made with ❤️ using Python and Tkinter.
+
