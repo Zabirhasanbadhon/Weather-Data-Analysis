@@ -40,28 +40,7 @@ A modern desktop application for exploring, visualizing, and analyzing weather d
 - **Pandas** — loading and analyzing CSV data
 - **Matplotlib** — charts embedded in the GUI
 
-## 📁 Project Structure
-
-```text
-Weather-Data-Analysis/
-├── Weather Data Analysis.py
-├── Weather_Dataset.csv          # Your dataset (optional, add your own)
-└── README.md
-```
-
 > The CSV dataset is not bundled with this project by default. Use your own weather dataset, or select a CSV file from inside the application.
-
-## ⚙️ Installation
-
-### 1. Install Python
-
-Install Python 3 from the official Python website. During installation on Windows, enable **Add Python to PATH**.
-
-### 3. Install dependencies
-
-```bash
-python -m pip install pandas matplotlib
-```
 
 ### 4. Add your dataset
 
